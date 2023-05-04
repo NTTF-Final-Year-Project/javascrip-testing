@@ -1,0 +1,1 @@
+consold.log("Hello world")
